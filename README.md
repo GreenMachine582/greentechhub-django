@@ -41,7 +41,7 @@ The Django-specific adapter package, deliberately small: a thin set of middlewar
 
 ## 🗺️ Status & Roadmap
 
-This package is in the **planning phase** — no code has shipped yet. The phased rollout (v0.1 → v1.0) and migration tracking are a living checklist in [TODO.md](TODO.md).
+Shipped versions and their notes: [CHANGELOG.md](CHANGELOG.md) and the [Releases page](https://github.com/GreenMachine582/greentechhub-django/releases) (both written by release-please from conventional commits). Open work: [TODO.md](TODO.md). Branches, PRs and how a release is cut: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 📄 Licence
 
