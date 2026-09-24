@@ -7,31 +7,38 @@
   "changelog-sections": [
     {
       "type": "feat",
-      "section": "Features"
+      "section": "Features",
+      "hidden": false
     },
     {
       "type": "fix",
-      "section": "Bug Fixes"
+      "section": "Bug Fixes",
+      "hidden": false
     },
     {
       "type": "perf",
-      "section": "Performance"
+      "section": "Performance",
+      "hidden": false
     },
     {
       "type": "refactor",
-      "section": "Refactors"
+      "section": "Refactors",
+      "hidden": true
     },
     {
       "type": "docs",
-      "section": "Documentation"
+      "section": "Documentation",
+      "hidden": true
     },
     {
       "type": "build",
-      "section": "Build"
+      "section": "Build",
+      "hidden": false
     },
     {
       "type": "revert",
-      "section": "Reverts"
+      "section": "Reverts",
+      "hidden": false
     },
     {
       "type": "test",
@@ -59,5 +66,7 @@
       "package-name": "greentechhub-django",
       "changelog-path": "CHANGELOG.md"
     }
-  }
+  },
+  "bootstrap-sha": "ca58c09930756ba8663adee1a1195bcda60f5646",
+  "initial-version": "0.1.0"
 }
